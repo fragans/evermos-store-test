@@ -1,7 +1,9 @@
 # evermos-test
 visit: https://magenta-madeleine-8fee48.netlify.app/
-simple shop catalog website
-developed using nuxt js 2.15
+
+A simple shop catalog website, developed using nuxt js 2.15
+
+
 
 ## Build Setup
 
